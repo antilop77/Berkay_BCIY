@@ -1,0 +1,6 @@
+db:
+  DRIVER: 'SQL Server'
+  SERVER: '20.113.66.170'
+  NAME: 'Coins'
+  USERNAME: 'cengiz'
+  PASSWORD: 'R45ty871*123'

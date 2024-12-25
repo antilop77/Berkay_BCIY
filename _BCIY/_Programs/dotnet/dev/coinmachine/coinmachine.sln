@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cm.consoleAppSellApp", "cm.consoleAppSellApp\cm.consoleAppSellApp.csproj", "{CCB70495-E6EC-433D-B796-E0735E68B5FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "workerServiceCoinAlSat", "workerServiceCoinAlSat\workerServiceCoinAlSat.csproj", "{F4B60EF7-942A-4D64-BBDF-1F6810DEEB07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{740122BA-DB24-4DA1-A16B-8BDBF6FA5D90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD20DC3B-F056-4AB3-AF5D-0B9BB5B16B14}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{C736064C-48DB-474E-BD06-145BDB89AB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinVerileriBinanceConsoleApp", "CoinVerileriBinanceConsoleApp\CoinVerileriBinanceConsoleApp.csproj", "{FBCDD8EC-C1E3-45F1-A625-7EAC58C2F977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB70495-E6EC-433D-B796-E0735E68B5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB70495-E6EC-433D-B796-E0735E68B5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB70495-E6EC-433D-B796-E0735E68B5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB70495-E6EC-433D-B796-E0735E68B5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B60EF7-942A-4D64-BBDF-1F6810DEEB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B60EF7-942A-4D64-BBDF-1F6810DEEB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B60EF7-942A-4D64-BBDF-1F6810DEEB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B60EF7-942A-4D64-BBDF-1F6810DEEB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740122BA-DB24-4DA1-A16B-8BDBF6FA5D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740122BA-DB24-4DA1-A16B-8BDBF6FA5D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740122BA-DB24-4DA1-A16B-8BDBF6FA5D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740122BA-DB24-4DA1-A16B-8BDBF6FA5D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C736064C-48DB-474E-BD06-145BDB89AB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C736064C-48DB-474E-BD06-145BDB89AB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C736064C-48DB-474E-BD06-145BDB89AB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C736064C-48DB-474E-BD06-145BDB89AB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCDD8EC-C1E3-45F1-A625-7EAC58C2F977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCDD8EC-C1E3-45F1-A625-7EAC58C2F977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCDD8EC-C1E3-45F1-A625-7EAC58C2F977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCDD8EC-C1E3-45F1-A625-7EAC58C2F977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24761B6D-D270-42D2-9567-29527C4B4C3B}
+	EndGlobalSection
+EndGlobal

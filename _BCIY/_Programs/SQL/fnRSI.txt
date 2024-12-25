@@ -1,0 +1,97 @@
+USE [coins]
+GO
+/****** Object:  UserDefinedFunction [dbo].[fnRSI]    Script Date: 1.05.2024 13:26:54 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER FUNCTION [dbo].[fnRSI](@coinCode char(50), @gelenverizamani char(19), @IslemZamanBirimi char(50)) 
+RETURNS float
+AS
+
+
+/*
+	def calculate_rsi(prices, period=14):
+    delta = prices.diff()
+    gain = (delta.where(delta > 0, 0)).rolling(window=period).mean()
+    loss = (-delta.where(delta < 0, 0)).rolling(window=period).mean()
+    rs = gain / loss
+    rsi = 100 - (100 / (1 + rs))
+    return rsi
+	
+*/
+BEGIN
+declare @ret float
+declare @open float
+declare @high float
+declare @low float
+declare @prevclose float
+declare @close float
+declare @izb int, @delta float
+declare @negativedelta float
+declare @positivedelta float
+declare @rs float
+
+if @IslemZamanBirimi = '15m'
+begin 
+   set @izb = 15
+end
+
+if @IslemZamanBirimi = '1h'
+begin 
+   set @izb = 60
+end
+
+if @IslemZamanBirimi = '4h'
+begin 
+   set @izb = 240
+end
+
+set @prevclose = -1
+set @negativedelta = 0
+set @positivedelta = 0
+ 
+ DECLARE cur_rsi CURSOR
+STATIC FOR 
+SELECT TOP 14
+      Kapanis
+  FROM [coins].[dbo].[CoinVerileriBinance]
+  where 1=1
+  and coinkodu = @coinCode
+  and IslemZamanBirimi = @IslemZamanBirimi
+  and GelenVeriZamani >= DATEADD(mi, -1*@izb*14, @gelenverizamani) and GelenVeriZamani <= TRY_PARSE(@gelenverizamani AS DATETIME) -- CONVERT(Datetime,  @gelenverizamani, 120)  -- 15 = 15m
+  order by GelenVeriZamani
+
+  set @ret = -1
+
+OPEN cur_rsi
+IF @@CURSOR_ROWS > 0
+ BEGIN 
+ FETCH NEXT FROM cur_rsi INTO @close
+ WHILE @@Fetch_status = 0
+ BEGIN
+	if @prevclose = -1
+	begin 
+		set @prevclose = @close
+		continue
+	end
+	if @close - @prevclose > 0
+	begin
+		set @positivedelta = @positivedelta + (@close - @prevclose)
+	end
+	else
+	begin
+		set @negativedelta = @negativedelta  + (@prevclose - @close)
+	end
+	set @prevclose = @close
+
+ FETCH NEXT FROM cur_rsi INTO @close
+ END
+END
+CLOSE cur_rsi
+DEALLOCATE cur_rsi
+	set @rs = @positivedelta / @negativedelta
+    set @ret = 100 - (100 / (1 + @rs))
+return @ret
+END

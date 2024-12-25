@@ -1,0 +1,570 @@
+2024-04-24 03:00:02.137684   BTCUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:02.999086   ETHUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:03.624086   CHZUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:05.112990   AVAXUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:02.137684   BTCUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:02.999086   ETHUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:03.624086   CHZUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:06.245522   ADAUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:06.933019   NEOUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:05.112990   AVAXUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:08.233924   DOGEUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:06.245522   ADAUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:06.933019   NEOUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:09.207207   BNBUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:08.233924   DOGEUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:09.660330   SOLUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:10.295862   AAVEUSDT.P  <--- icin  thread 10 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:09.207207   BNBUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:11.433894   MKRUSDT.P  <--- icin  thread 11 baslatildi. Zaman birimi = 1d
+2024-04-24 03:00:10.295862   AAVEUSDT.P  <--- icin  thread 10 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:09.660330   SOLUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:11.433894   MKRUSDT.P  <--- icin  thread 11 veriler alindi. Zaman birimi = 1d
+2024-04-24 03:00:02.137684   BTCUSDT.P  <--- icin  thread 1 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-24 03:00:08.233924   DOGEUSDT.P  <--- icin  thread 7 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-24 03:00:06.245522   ADAUSDT.P  <--- icin  thread 5 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-24 03:00:05.112990   AVAXUSDT.P  <--- icin  thread 4 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-24 03:00:11.433894   MKRUSDT.P  <--- icin  thread 11 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-24 03:00:10.295862   AAVEUSDT.P  <--- icin  thread 10 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-24 03:00:03.624086   CHZUSDT.P  <--- icin  thread 3 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-24 03:00:02.999086   ETHUSDT.P  <--- icin  thread 2 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-24 03:00:06.933019   NEOUSDT.P  <--- icin  thread 6 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-24 03:00:09.207207   BNBUSDT.P  <--- icin  thread 8 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-24 03:00:09.660330   SOLUSDT.P  <--- icin  thread 9 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:22.271786   BTCUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:22.381164   ETHUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:23.334286   CHZUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:22.271786   BTCUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:22.381164   ETHUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:24.865537   AVAXUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:23.334286   CHZUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:26.303039   ADAUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:24.865537   AVAXUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:27.271789   NEOUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:26.303039   ADAUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:29.053037   DOGEUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:27.271789   NEOUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:29.881162   BNBUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:29.053037   DOGEUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:31.115538   SOLUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:31.693665   AAVEUSDT.P  <--- icin  thread 10 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:29.881162   BNBUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:32.740539   MKRUSDT.P  <--- icin  thread 11 baslatildi. Zaman birimi = 1d
+2024-04-25 03:00:31.693665   AAVEUSDT.P  <--- icin  thread 10 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:31.115538   SOLUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:32.740539   MKRUSDT.P  <--- icin  thread 11 veriler alindi. Zaman birimi = 1d
+2024-04-25 03:00:22.381164   ETHUSDT.P  <--- icin  thread 2 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:26.303039   ADAUSDT.P  <--- icin  thread 5 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:23.334286   CHZUSDT.P  <--- icin  thread 3 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-25 03:00:29.053037   DOGEUSDT.P  <--- icin  thread 7 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:29.881162   BNBUSDT.P  <--- icin  thread 8 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:22.271786   BTCUSDT.P  <--- icin  thread 1 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:24.865537   AVAXUSDT.P  <--- icin  thread 4 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:27.271789   NEOUSDT.P  <--- icin  thread 6 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:32.740539   MKRUSDT.P  <--- icin  thread 11 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:31.693665   AAVEUSDT.P  <--- icin  thread 10 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-25 03:00:31.115538   SOLUSDT.P  <--- icin  thread 9 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:02.777974   CHZUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:02.777974   AVAXUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:02.793614   ADAUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:02.809128   NEOUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:03.230748   DOGEUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:03.918311   BNBUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:04.433956   SOLUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:04.902654   AAVEUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:02.809128   NEOUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:03.230748   DOGEUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:02.777974   CHZUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:05.152731   MKRUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-04-26 03:09:02.793614   ADAUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:03.918311   BNBUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:02.777974   AVAXUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:04.433956   SOLUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:04.902654   AAVEUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:05.152731   MKRUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-04-26 03:09:03.230748   DOGEUSDT.P  <--- icin  thread 5 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:02.777974   CHZUSDT.P  <--- icin  thread 1 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:02.793614   ADAUSDT.P  <--- icin  thread 3 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:02.777974   AVAXUSDT.P  <--- icin  thread 2 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:03.918311   BNBUSDT.P  <--- icin  thread 6 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:02.809128   NEOUSDT.P  <--- icin  thread 4 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:04.433956   SOLUSDT.P  <--- icin  thread 7 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:05.152731   MKRUSDT.P  <--- icin  thread 9 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-26 03:09:04.902654   AAVEUSDT.P  <--- icin  thread 8 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-27 03:00:24.385061   CHZUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:24.494445   AVAXUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:25.026279   ADAUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:25.541406   NEOUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:26.213330   DOGEUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:26.619613   BNBUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:26.947761   SOLUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:27.135280   AAVEUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:25.026279   ADAUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:24.494445   AVAXUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:24.385061   CHZUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:28.791661   MKRUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-04-27 03:00:25.541406   NEOUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:26.213330   DOGEUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:26.947761   SOLUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:27.135280   AAVEUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:26.619613   BNBUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:28.791661   MKRUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-04-27 03:00:25.026279   ADAUSDT.P  <--- icin  thread 3 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-27 03:00:25.541406   NEOUSDT.P  <--- icin  thread 4 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-27 03:00:26.619613   BNBUSDT.P  <--- icin  thread 6 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-27 03:00:24.385061   CHZUSDT.P  <--- icin  thread 1 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-27 03:00:27.135280   AAVEUSDT.P  <--- icin  thread 8 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-27 03:00:24.494445   AVAXUSDT.P  <--- icin  thread 2 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-27 03:00:26.213330   DOGEUSDT.P  <--- icin  thread 5 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-27 03:00:26.947761   SOLUSDT.P  <--- icin  thread 7 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-27 03:00:28.791661   MKRUSDT.P  <--- icin  thread 9 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:21.411811   BTCUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.411811   ETHUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.411811   CHZUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   XRPUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   AVAXUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   ADAUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   LTCUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:23.568875   TRXUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:23.740765   LINKUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:24.459579   XLMUSDT.P  <--- icin  thread 10 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:25.600301   BAKEUSDT.P  <--- icin  thread 11 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   XRPUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:27.506713   EOSUSDT.P  <--- icin  thread 12 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:23.568875   TRXUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   LTCUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:28.491166   NEOUSDT.P  <--- icin  thread 13 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.411811   ETHUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:21.411811   CHZUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:29.944416   ATOMUSDT.P  <--- icin  thread 14 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.411811   BTCUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:25.600301   BAKEUSDT.P  <--- icin  thread 11 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:30.506966   BATUSDT.P  <--- icin  thread 15 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:23.740765   LINKUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:24.459579   XLMUSDT.P  <--- icin  thread 10 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   AVAXUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:27.506713   EOSUSDT.P  <--- icin  thread 12 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:31.350785   DOGEUSDT.P  <--- icin  thread 16 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:32.038342   OMGUSDT.P  <--- icin  thread 17 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:32.975921   SANDUSDT.P  <--- icin  thread 18 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:33.866625   MANAUSDT.P  <--- icin  thread 19 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:34.647944   DOTUSDT.P  <--- icin  thread 20 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:36.148066   BNBUSDT.P  <--- icin  thread 21 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:38.179488   BANDUSDT.P  <--- icin  thread 22 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:31.350785   DOGEUSDT.P  <--- icin  thread 16 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:28.491166   NEOUSDT.P  <--- icin  thread 13 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:39.132698   SOLUSDT.P  <--- icin  thread 23 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:29.944416   ATOMUSDT.P  <--- icin  thread 14 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:39.960890   AAVEUSDT.P  <--- icin  thread 24 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:32.975921   SANDUSDT.P  <--- icin  thread 18 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:30.506966   BATUSDT.P  <--- icin  thread 15 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:34.647944   DOTUSDT.P  <--- icin  thread 20 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:32.038342   OMGUSDT.P  <--- icin  thread 17 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:40.445305   NEARUSDT.P  <--- icin  thread 25 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:33.866625   MANAUSDT.P  <--- icin  thread 19 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:41.382885   HOTUSDT.P  <--- icin  thread 26 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:43.211164   MKRUSDT.P  <--- icin  thread 27 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:44.008104   CRVUSDT.P  <--- icin  thread 28 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   LTCUSDT.P  <--- icin  thread 7 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-28 03:00:23.568875   TRXUSDT.P  <--- icin  thread 8 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-28 03:00:44.820676   ZECUSDT.P  <--- icin  thread 29 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:45.633244   IOTAUSDT.P  <--- icin  thread 30 baslatildi. Zaman birimi = 1d
+2024-04-28 03:00:36.148066   BNBUSDT.P  <--- icin  thread 21 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:39.132698   SOLUSDT.P  <--- icin  thread 23 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:41.382885   HOTUSDT.P  <--- icin  thread 26 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:38.179488   BANDUSDT.P  <--- icin  thread 22 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:39.960890   AAVEUSDT.P  <--- icin  thread 24 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:43.211164   MKRUSDT.P  <--- icin  thread 27 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:40.445305   NEARUSDT.P  <--- icin  thread 25 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:44.820676   ZECUSDT.P  <--- icin  thread 29 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:45.633244   IOTAUSDT.P  <--- icin  thread 30 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:44.008104   CRVUSDT.P  <--- icin  thread 28 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:25.600301   BAKEUSDT.P  <--- icin  thread 11 hata alindi. Hata = ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5)')  Zaman birimi = 1d
+2024-04-28 03:00:21.411811   BTCUSDT.P  <--- icin  thread 1 hata alindi. Hata = ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5)')  Zaman birimi = 1d
+2024-04-28 03:00:21.427619   AVAXUSDT.P  <--- icin  thread 5 hata alindi. Hata = ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5)')  Zaman birimi = 1d
+2024-04-28 03:00:23.740765   LINKUSDT.P  <--- icin  thread 9 hata alindi. Hata = ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5)')  Zaman birimi = 1d
+2024-04-28 03:00:21.411811   ETHUSDT.P  <--- icin  thread 2 hata alindi. Hata = ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5)')  Zaman birimi = 1d
+2024-04-28 03:00:21.411811   CHZUSDT.P  <--- icin  thread 3 hata alindi. Hata = ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5)')  Zaman birimi = 1d
+2024-04-28 03:00:27.506713   EOSUSDT.P  <--- icin  thread 12 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-28 03:00:24.459579   XLMUSDT.P  <--- icin  thread 10 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-28 03:00:21.427619   ADAUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   XRPUSDT.P  <--- icin  thread 4 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-28 03:00:30.506966   BATUSDT.P  <--- icin  thread 15 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:41.382885   HOTUSDT.P  <--- icin  thread 26 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:31.350785   DOGEUSDT.P  <--- icin  thread 16 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:39.960890   AAVEUSDT.P  <--- icin  thread 24 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:33.866625   MANAUSDT.P  <--- icin  thread 19 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:38.179488   BANDUSDT.P  <--- icin  thread 22 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:36.148066   BNBUSDT.P  <--- icin  thread 21 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:44.008104   CRVUSDT.P  <--- icin  thread 28 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:29.944416   ATOMUSDT.P  <--- icin  thread 14 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:40.445305   NEARUSDT.P  <--- icin  thread 25 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:28.491166   NEOUSDT.P  <--- icin  thread 13 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:44.820676   ZECUSDT.P  <--- icin  thread 29 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:43.211164   MKRUSDT.P  <--- icin  thread 27 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:39.132698   SOLUSDT.P  <--- icin  thread 23 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:45.633244   IOTAUSDT.P  <--- icin  thread 30 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:32.038342   OMGUSDT.P  <--- icin  thread 17 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:32.975921   SANDUSDT.P  <--- icin  thread 18 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:21.427619   ADAUSDT.P  <--- icin  thread 6 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-28 03:00:34.647944   DOTUSDT.P  <--- icin  thread 20 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:22.799594   BTCUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:23.346520   ETHUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:24.002837   CHZUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:25.174822   XRPUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:22.799594   BTCUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:25.690499   AVAXUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:23.346520   ETHUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:26.690596   ADAUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:27.346904   LTCUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:24.002837   CHZUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:25.690499   AVAXUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:27.831326   TRXUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:25.174822   XRPUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:28.940811   LINKUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:26.690596   ADAUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:29.815892   XLMUSDT.P  <--- icin  thread 10 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:27.831326   TRXUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:27.346904   LTCUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:30.644097   BAKEUSDT.P  <--- icin  thread 11 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:28.940811   LINKUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:31.112894   EOSUSDT.P  <--- icin  thread 12 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:31.612938   NEOUSDT.P  <--- icin  thread 13 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:29.815892   XLMUSDT.P  <--- icin  thread 10 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:31.941099   ATOMUSDT.P  <--- icin  thread 14 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:30.644097   BAKEUSDT.P  <--- icin  thread 11 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:32.769302   BATUSDT.P  <--- icin  thread 15 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:33.613131   DOGEUSDT.P  <--- icin  thread 16 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:31.112894   EOSUSDT.P  <--- icin  thread 12 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:31.612938   NEOUSDT.P  <--- icin  thread 13 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:34.644481   OMGUSDT.P  <--- icin  thread 17 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:35.394554   SANDUSDT.P  <--- icin  thread 18 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:31.941099   ATOMUSDT.P  <--- icin  thread 14 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:33.613131   DOGEUSDT.P  <--- icin  thread 16 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:36.285261   MANAUSDT.P  <--- icin  thread 19 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:36.879070   DOTUSDT.P  <--- icin  thread 20 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:32.769302   BATUSDT.P  <--- icin  thread 15 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:37.691649   BNBUSDT.P  <--- icin  thread 21 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:38.973022   BANDUSDT.P  <--- icin  thread 22 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:35.394554   SANDUSDT.P  <--- icin  thread 18 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:39.363686   SOLUSDT.P  <--- icin  thread 23 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:34.644481   OMGUSDT.P  <--- icin  thread 17 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:40.066875   AAVEUSDT.P  <--- icin  thread 24 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:36.879070   DOTUSDT.P  <--- icin  thread 20 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:40.988841   NEARUSDT.P  <--- icin  thread 25 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:37.691649   BNBUSDT.P  <--- icin  thread 21 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:36.285261   MANAUSDT.P  <--- icin  thread 19 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:41.801417   HOTUSDT.P  <--- icin  thread 26 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:22.799594   BTCUSDT.P  <--- icin  thread 1 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-29 03:00:38.973022   BANDUSDT.P  <--- icin  thread 22 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:42.176453   MKRUSDT.P  <--- icin  thread 27 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:39.363686   SOLUSDT.P  <--- icin  thread 23 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:42.864017   CRVUSDT.P  <--- icin  thread 28 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:40.988841   NEARUSDT.P  <--- icin  thread 25 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:43.676597   ZECUSDT.P  <--- icin  thread 29 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:44.192275   IOTAUSDT.P  <--- icin  thread 30 baslatildi. Zaman birimi = 1d
+2024-04-29 03:00:42.176453   MKRUSDT.P  <--- icin  thread 27 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:42.864017   CRVUSDT.P  <--- icin  thread 28 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:40.066875   AAVEUSDT.P  <--- icin  thread 24 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:24.002837   CHZUSDT.P  <--- icin  thread 3 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-29 03:00:25.690499   AVAXUSDT.P  <--- icin  thread 5 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-29 03:00:25.174822   XRPUSDT.P  <--- icin  thread 4 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-29 03:00:41.801417   HOTUSDT.P  <--- icin  thread 26 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:27.346904   LTCUSDT.P  <--- icin  thread 7 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-29 03:00:26.690596   ADAUSDT.P  <--- icin  thread 6 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-29 03:00:27.831326   TRXUSDT.P  <--- icin  thread 8 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-29 03:00:44.192275   IOTAUSDT.P  <--- icin  thread 30 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:43.676597   ZECUSDT.P  <--- icin  thread 29 veriler alindi. Zaman birimi = 1d
+2024-04-29 03:00:33.613131   DOGEUSDT.P  <--- icin  thread 16 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-29 03:00:31.112894   EOSUSDT.P  <--- icin  thread 12 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-29 03:00:43.676597   ZECUSDT.P  <--- icin  thread 29 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:37.691649   BNBUSDT.P  <--- icin  thread 21 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:29.815892   XLMUSDT.P  <--- icin  thread 10 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-29 03:00:40.066875   AAVEUSDT.P  <--- icin  thread 24 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:44.192275   IOTAUSDT.P  <--- icin  thread 30 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:23.346520   ETHUSDT.P  <--- icin  thread 2 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:32.769302   BATUSDT.P  <--- icin  thread 15 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:42.864017   CRVUSDT.P  <--- icin  thread 28 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:36.285261   MANAUSDT.P  <--- icin  thread 19 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:41.801417   HOTUSDT.P  <--- icin  thread 26 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-29 03:00:36.879070   DOTUSDT.P  <--- icin  thread 20 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:39.363686   SOLUSDT.P  <--- icin  thread 23 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:28.940811   LINKUSDT.P  <--- icin  thread 9 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:38.973022   BANDUSDT.P  <--- icin  thread 22 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:30.644097   BAKEUSDT.P  <--- icin  thread 11 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:35.394554   SANDUSDT.P  <--- icin  thread 18 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:34.644481   OMGUSDT.P  <--- icin  thread 17 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:42.176453   MKRUSDT.P  <--- icin  thread 27 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:31.612938   NEOUSDT.P  <--- icin  thread 13 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:31.941099   ATOMUSDT.P  <--- icin  thread 14 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-29 03:00:40.988841   NEARUSDT.P  <--- icin  thread 25 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:23.285135   BTCUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:23.941444   ETHUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:24.816522   CHZUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:25.129048   XRPUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:23.285135   BTCUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:23.941444   ETHUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:26.426039   AVAXUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:24.816522   CHZUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:27.035463   ADAUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:27.660520   LTCUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:28.207441   TRXUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:28.613728   LINKUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:25.129048   XRPUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:26.426039   AVAXUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:27.660520   LTCUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:29.926343   XLMUSDT.P  <--- icin  thread 10 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:30.707660   BAKEUSDT.P  <--- icin  thread 11 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:27.035463   ADAUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:28.613728   LINKUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:31.020189   EOSUSDT.P  <--- icin  thread 12 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:31.707751   NEOUSDT.P  <--- icin  thread 13 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:29.926343   XLMUSDT.P  <--- icin  thread 10 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:30.707660   BAKEUSDT.P  <--- icin  thread 11 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:32.114038   ATOMUSDT.P  <--- icin  thread 14 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:32.754717   BATUSDT.P  <--- icin  thread 15 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:33.723551   DOGEUSDT.P  <--- icin  thread 16 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:34.348605   OMGUSDT.P  <--- icin  thread 17 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:35.364322   SANDUSDT.P  <--- icin  thread 18 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:32.754717   BATUSDT.P  <--- icin  thread 15 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:32.114038   ATOMUSDT.P  <--- icin  thread 14 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:34.348605   OMGUSDT.P  <--- icin  thread 17 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:36.333154   MANAUSDT.P  <--- icin  thread 19 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:31.020189   EOSUSDT.P  <--- icin  thread 12 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:31.707751   NEOUSDT.P  <--- icin  thread 13 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:33.723551   DOGEUSDT.P  <--- icin  thread 16 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:37.161352   DOTUSDT.P  <--- icin  thread 20 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:37.552012   BNBUSDT.P  <--- icin  thread 21 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:35.364322   SANDUSDT.P  <--- icin  thread 18 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:38.193004   BANDUSDT.P  <--- icin  thread 22 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:39.005268   SOLUSDT.P  <--- icin  thread 23 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:39.802211   AAVEUSDT.P  <--- icin  thread 24 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:36.333154   MANAUSDT.P  <--- icin  thread 19 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:40.458518   NEARUSDT.P  <--- icin  thread 25 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:37.161352   DOTUSDT.P  <--- icin  thread 20 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:40.958562   HOTUSDT.P  <--- icin  thread 26 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:38.193004   BANDUSDT.P  <--- icin  thread 22 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:41.364848   MKRUSDT.P  <--- icin  thread 27 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:39.005268   SOLUSDT.P  <--- icin  thread 23 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:37.552012   BNBUSDT.P  <--- icin  thread 21 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:41.896144   CRVUSDT.P  <--- icin  thread 28 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:42.318058   ZECUSDT.P  <--- icin  thread 29 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:42.724346   IOTAUSDT.P  <--- icin  thread 30 baslatildi. Zaman birimi = 1d
+2024-04-30 03:00:40.958562   HOTUSDT.P  <--- icin  thread 26 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:41.364848   MKRUSDT.P  <--- icin  thread 27 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:23.941444   ETHUSDT.P  <--- icin  thread 2 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-30 03:00:39.802211   AAVEUSDT.P  <--- icin  thread 24 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:41.896144   CRVUSDT.P  <--- icin  thread 28 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:40.458518   NEARUSDT.P  <--- icin  thread 25 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:42.318058   ZECUSDT.P  <--- icin  thread 29 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:42.724346   IOTAUSDT.P  <--- icin  thread 30 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:24.816522   CHZUSDT.P  <--- icin  thread 3 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-30 03:00:26.426039   AVAXUSDT.P  <--- icin  thread 5 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-30 03:00:25.129048   XRPUSDT.P  <--- icin  thread 4 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-30 03:00:27.660520   LTCUSDT.P  <--- icin  thread 7 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-04-30 03:00:28.207441   TRXUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-04-30 03:00:32.754717   BATUSDT.P  <--- icin  thread 15 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:31.707751   NEOUSDT.P  <--- icin  thread 13 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:29.926343   XLMUSDT.P  <--- icin  thread 10 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-30 03:00:38.193004   BANDUSDT.P  <--- icin  thread 22 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:23.285135   BTCUSDT.P  <--- icin  thread 1 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:33.723551   DOGEUSDT.P  <--- icin  thread 16 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:34.348605   OMGUSDT.P  <--- icin  thread 17 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:40.458518   NEARUSDT.P  <--- icin  thread 25 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:37.161352   DOTUSDT.P  <--- icin  thread 20 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:31.020189   EOSUSDT.P  <--- icin  thread 12 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:35.364322   SANDUSDT.P  <--- icin  thread 18 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-30 03:00:40.958562   HOTUSDT.P  <--- icin  thread 26 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-30 03:00:28.613728   LINKUSDT.P  <--- icin  thread 9 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:42.724346   IOTAUSDT.P  <--- icin  thread 30 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:42.318058   ZECUSDT.P  <--- icin  thread 29 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:37.552012   BNBUSDT.P  <--- icin  thread 21 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:39.802211   AAVEUSDT.P  <--- icin  thread 24 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:36.333154   MANAUSDT.P  <--- icin  thread 19 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:27.035463   ADAUSDT.P  <--- icin  thread 6 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-30 03:00:32.114038   ATOMUSDT.P  <--- icin  thread 14 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:41.364848   MKRUSDT.P  <--- icin  thread 27 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:41.896144   CRVUSDT.P  <--- icin  thread 28 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-04-30 03:00:28.207441   TRXUSDT.P  <--- icin  thread 8 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:30.707660   BAKEUSDT.P  <--- icin  thread 11 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-04-30 03:00:39.005268   SOLUSDT.P  <--- icin  thread 23 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:22.385480   BTCUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:23.073047   ETHUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:23.526219   CHZUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:24.604449   XRPUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:25.557663   AVAXUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:25.635799   ADAUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:26.307736   LTCUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:22.385480   BTCUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:23.526219   CHZUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:26.807786   TRXUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:23.073047   ETHUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:24.604449   XRPUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:27.448477   LINKUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:28.057913   XLMUSDT.P  <--- icin  thread 10 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:28.651717   BAKEUSDT.P  <--- icin  thread 11 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:26.807786   TRXUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:29.089259   EOSUSDT.P  <--- icin  thread 12 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:25.557663   AVAXUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:30.448767   NEOUSDT.P  <--- icin  thread 13 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:28.651717   BAKEUSDT.P  <--- icin  thread 11 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:26.307736   LTCUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:31.745769   ATOMUSDT.P  <--- icin  thread 14 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:32.480215   BATUSDT.P  <--- icin  thread 15 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:28.057913   XLMUSDT.P  <--- icin  thread 10 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:27.448477   LINKUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:30.448767   NEOUSDT.P  <--- icin  thread 13 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:33.402178   DOGEUSDT.P  <--- icin  thread 16 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:29.089259   EOSUSDT.P  <--- icin  thread 12 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:33.917854   OMGUSDT.P  <--- icin  thread 17 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:34.558539   SANDUSDT.P  <--- icin  thread 18 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:32.480215   BATUSDT.P  <--- icin  thread 15 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:33.402178   DOGEUSDT.P  <--- icin  thread 16 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:31.745769   ATOMUSDT.P  <--- icin  thread 14 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:34.855443   MANAUSDT.P  <--- icin  thread 19 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:35.527395   DOTUSDT.P  <--- icin  thread 20 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:33.917854   OMGUSDT.P  <--- icin  thread 17 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:36.121193   BNBUSDT.P  <--- icin  thread 21 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:34.558539   SANDUSDT.P  <--- icin  thread 18 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:36.558734   BANDUSDT.P  <--- icin  thread 22 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:34.855443   MANAUSDT.P  <--- icin  thread 19 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:37.371315   SOLUSDT.P  <--- icin  thread 23 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:35.527395   DOTUSDT.P  <--- icin  thread 20 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:38.012000   AAVEUSDT.P  <--- icin  thread 24 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:38.215146   NEARUSDT.P  <--- icin  thread 25 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:36.121193   BNBUSDT.P  <--- icin  thread 21 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:38.840206   HOTUSDT.P  <--- icin  thread 26 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:37.371315   SOLUSDT.P  <--- icin  thread 23 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:39.902812   MKRUSDT.P  <--- icin  thread 27 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:38.012000   AAVEUSDT.P  <--- icin  thread 24 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:38.215146   NEARUSDT.P  <--- icin  thread 25 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:36.558734   BANDUSDT.P  <--- icin  thread 22 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:40.574749   CRVUSDT.P  <--- icin  thread 28 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:23.526219   CHZUSDT.P  <--- icin  thread 3 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-05-01 03:00:41.715486   ZECUSDT.P  <--- icin  thread 29 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:38.840206   HOTUSDT.P  <--- icin  thread 26 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:23.073047   ETHUSDT.P  <--- icin  thread 2 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-05-01 03:00:42.293668   IOTAUSDT.P  <--- icin  thread 30 baslatildi. Zaman birimi = 1d
+2024-05-01 03:00:22.385480   BTCUSDT.P  <--- icin  thread 1 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-05-01 03:00:39.902812   MKRUSDT.P  <--- icin  thread 27 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:40.574749   CRVUSDT.P  <--- icin  thread 28 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:41.715486   ZECUSDT.P  <--- icin  thread 29 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:42.293668   IOTAUSDT.P  <--- icin  thread 30 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:24.604449   XRPUSDT.P  <--- icin  thread 4 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-05-01 03:00:26.807786   TRXUSDT.P  <--- icin  thread 8 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-05-01 03:00:25.635799   ADAUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-05-01 03:00:28.651717   BAKEUSDT.P  <--- icin  thread 11 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-01 03:00:33.402178   DOGEUSDT.P  <--- icin  thread 16 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-01 03:00:34.558539   SANDUSDT.P  <--- icin  thread 18 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-01 03:00:38.215146   NEARUSDT.P  <--- icin  thread 25 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:30.448767   NEOUSDT.P  <--- icin  thread 13 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:40.574749   CRVUSDT.P  <--- icin  thread 28 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-01 03:00:36.121193   BNBUSDT.P  <--- icin  thread 21 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:27.448477   LINKUSDT.P  <--- icin  thread 9 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:35.527395   DOTUSDT.P  <--- icin  thread 20 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:37.371315   SOLUSDT.P  <--- icin  thread 23 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:29.089259   EOSUSDT.P  <--- icin  thread 12 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-01 03:00:38.840206   HOTUSDT.P  <--- icin  thread 26 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-01 03:00:25.557663   AVAXUSDT.P  <--- icin  thread 5 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:39.902812   MKRUSDT.P  <--- icin  thread 27 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:26.307736   LTCUSDT.P  <--- icin  thread 7 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:38.012000   AAVEUSDT.P  <--- icin  thread 24 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:42.293668   IOTAUSDT.P  <--- icin  thread 30 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:31.745769   ATOMUSDT.P  <--- icin  thread 14 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:32.480215   BATUSDT.P  <--- icin  thread 15 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:28.057913   XLMUSDT.P  <--- icin  thread 10 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-01 03:00:34.855443   MANAUSDT.P  <--- icin  thread 19 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:41.715486   ZECUSDT.P  <--- icin  thread 29 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:33.917854   OMGUSDT.P  <--- icin  thread 17 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:36.558734   BANDUSDT.P  <--- icin  thread 22 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-01 03:00:25.635799   ADAUSDT.P  <--- icin  thread 6 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:22.397043   BTCUSDT.P  <--- icin  thread 1 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:23.381509   ETHUSDT.P  <--- icin  thread 2 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:24.037813   CHZUSDT.P  <--- icin  thread 3 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:24.694122   XRPUSDT.P  <--- icin  thread 4 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:25.459817   AVAXUSDT.P  <--- icin  thread 5 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:24.694122   XRPUSDT.P  <--- icin  thread 4 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:24.037813   CHZUSDT.P  <--- icin  thread 3 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:26.225509   ADAUSDT.P  <--- icin  thread 6 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:22.397043   BTCUSDT.P  <--- icin  thread 1 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:23.381509   ETHUSDT.P  <--- icin  thread 2 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:26.366144   LTCUSDT.P  <--- icin  thread 7 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:27.819401   TRXUSDT.P  <--- icin  thread 8 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:25.459817   AVAXUSDT.P  <--- icin  thread 5 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:28.600720   LINKUSDT.P  <--- icin  thread 9 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:26.225509   ADAUSDT.P  <--- icin  thread 6 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:29.382042   XLMUSDT.P  <--- icin  thread 10 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:27.819401   TRXUSDT.P  <--- icin  thread 8 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:26.366144   LTCUSDT.P  <--- icin  thread 7 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:30.225863   BAKEUSDT.P  <--- icin  thread 11 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:29.382042   XLMUSDT.P  <--- icin  thread 10 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:30.913423   EOSUSDT.P  <--- icin  thread 12 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:28.600720   LINKUSDT.P  <--- icin  thread 9 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:30.225863   BAKEUSDT.P  <--- icin  thread 11 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:31.710370   NEOUSDT.P  <--- icin  thread 13 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:31.710370   NEOUSDT.P  <--- icin  thread 13 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:32.476063   ATOMUSDT.P  <--- icin  thread 14 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:33.304261   BATUSDT.P  <--- icin  thread 15 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:33.944941   DOGEUSDT.P  <--- icin  thread 16 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:30.913423   EOSUSDT.P  <--- icin  thread 12 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:32.476063   ATOMUSDT.P  <--- icin  thread 14 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:34.616878   OMGUSDT.P  <--- icin  thread 17 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:33.944941   DOGEUSDT.P  <--- icin  thread 16 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:33.304261   BATUSDT.P  <--- icin  thread 15 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:35.476329   SANDUSDT.P  <--- icin  thread 18 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:34.616878   OMGUSDT.P  <--- icin  thread 17 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:36.148266   MANAUSDT.P  <--- icin  thread 19 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:36.617054   DOTUSDT.P  <--- icin  thread 20 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:35.476329   SANDUSDT.P  <--- icin  thread 18 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:36.148266   MANAUSDT.P  <--- icin  thread 19 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:37.320246   BNBUSDT.P  <--- icin  thread 21 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:37.867168   BANDUSDT.P  <--- icin  thread 22 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:36.617054   DOTUSDT.P  <--- icin  thread 20 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:38.648491   SOLUSDT.P  <--- icin  thread 23 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:37.320246   BNBUSDT.P  <--- icin  thread 21 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:39.054774   AAVEUSDT.P  <--- icin  thread 24 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:37.867168   BANDUSDT.P  <--- icin  thread 22 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:39.695453   NEARUSDT.P  <--- icin  thread 25 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:38.648491   SOLUSDT.P  <--- icin  thread 23 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:40.101740   HOTUSDT.P  <--- icin  thread 26 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:39.695453   NEARUSDT.P  <--- icin  thread 25 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:39.054774   AAVEUSDT.P  <--- icin  thread 24 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:41.117457   MKRUSDT.P  <--- icin  thread 27 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:41.211214   CRVUSDT.P  <--- icin  thread 28 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:40.101740   HOTUSDT.P  <--- icin  thread 26 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:24.037813   CHZUSDT.P  <--- icin  thread 3 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-05-02 03:00:41.836272   ZECUSDT.P  <--- icin  thread 29 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:42.148798   IOTAUSDT.P  <--- icin  thread 30 baslatildi. Zaman birimi = 1d
+2024-05-02 03:00:41.117457   MKRUSDT.P  <--- icin  thread 27 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:41.211214   CRVUSDT.P  <--- icin  thread 28 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:22.397043   BTCUSDT.P  <--- icin  thread 1 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-05-02 03:00:23.381509   ETHUSDT.P  <--- icin  thread 2 hata alindi. Hata = ('HYT00', '[HYT00] [Microsoft][ODBC SQL Server Driver]Login timeout expired (0) (SQLDriverConnect)')  Zaman birimi = 1d
+2024-05-02 03:00:41.836272   ZECUSDT.P  <--- icin  thread 29 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:42.148798   IOTAUSDT.P  <--- icin  thread 30 veriler alindi. Zaman birimi = 1d
+2024-05-02 03:00:24.694122   XRPUSDT.P  <--- icin  thread 4 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:40.101740   HOTUSDT.P  <--- icin  thread 26 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:30.913423   EOSUSDT.P  <--- icin  thread 12 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:26.225509   ADAUSDT.P  <--- icin  thread 6 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:41.211214   CRVUSDT.P  <--- icin  thread 28 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:27.819401   TRXUSDT.P  <--- icin  thread 8 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:35.476329   SANDUSDT.P  <--- icin  thread 18 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:29.382042   XLMUSDT.P  <--- icin  thread 10 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:33.944941   DOGEUSDT.P  <--- icin  thread 16 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting bigint to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:36.148266   MANAUSDT.P  <--- icin  thread 19 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:30.225863   BAKEUSDT.P  <--- icin  thread 11 veri tabanina kayit edilirken hata alindi. Hata = ('22003', '[22003] [Microsoft][ODBC SQL Server Driver][SQL Server]Arithmetic overflow error converting int to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')  Zaman birimi = 1d
+2024-05-02 03:00:36.617054   DOTUSDT.P  <--- icin  thread 20 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:28.600720   LINKUSDT.P  <--- icin  thread 9 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:41.836272   ZECUSDT.P  <--- icin  thread 29 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:37.320246   BNBUSDT.P  <--- icin  thread 21 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:25.459817   AVAXUSDT.P  <--- icin  thread 5 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:41.117457   MKRUSDT.P  <--- icin  thread 27 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:39.054774   AAVEUSDT.P  <--- icin  thread 24 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:37.867168   BANDUSDT.P  <--- icin  thread 22 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:39.695453   NEARUSDT.P  <--- icin  thread 25 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:38.648491   SOLUSDT.P  <--- icin  thread 23 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:32.476063   ATOMUSDT.P  <--- icin  thread 14 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:34.616878   OMGUSDT.P  <--- icin  thread 17 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:33.304261   BATUSDT.P  <--- icin  thread 15 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:42.148798   IOTAUSDT.P  <--- icin  thread 30 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:31.710370   NEOUSDT.P  <--- icin  thread 13 veri tabanina basarli kayit edildi. Zaman birimi = 1d
+2024-05-02 03:00:26.366144   LTCUSDT.P  <--- icin  thread 7 veri tabanina basarli kayit edildi. Zaman birimi = 1d

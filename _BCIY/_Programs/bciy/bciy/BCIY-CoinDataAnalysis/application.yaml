@@ -1,0 +1,16 @@
+parameter:
+  THREADS_COUNT: 3
+  PROCESSING_TIME_LIST: ['15m','1h','4h','1d']
+  ANALYSIS_PERIOD_DAYS: 1
+  VWMA_PERCENTAGE_OF_UNIT: 0.2
+  RSI_MIN: 30
+  RSI_MAX: 70
+  WR_MAX: -20
+  WR_MIN: -80
+
+db:
+  DRIVER: 'SQL Server'
+  SERVER: '31.210.51.251'
+  NAME: 'coins'
+  USERNAME: 'bciy'
+  PASSWORD: 'bciy!957'

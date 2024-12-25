@@ -1,0 +1,10 @@
+parameter:
+  THREADS_COUNT: 20
+  PROCESSING_TIME_TYPE: '1m'
+  MAX_CALL_BACK_RATE: 2
+db:
+  DRIVER: 'SQL Server'
+  SERVER: '51.12.247.74'
+  NAME: 'Coins'
+  USERNAME: 'bciy'
+  PASSWORD: 'bciy!957'
